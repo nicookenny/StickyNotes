@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/StickyNotes/static/css/main.6d8a133b.chunk.css",
+    "main.js": "/StickyNotes/static/js/main.852123fc.chunk.js",
+    "main.js.map": "/StickyNotes/static/js/main.852123fc.chunk.js.map",
+    "runtime-main.js": "/StickyNotes/static/js/runtime-main.21f32224.js",
+    "runtime-main.js.map": "/StickyNotes/static/js/runtime-main.21f32224.js.map",
+    "static/js/2.f3a952fb.chunk.js": "/StickyNotes/static/js/2.f3a952fb.chunk.js",
+    "static/js/2.f3a952fb.chunk.js.map": "/StickyNotes/static/js/2.f3a952fb.chunk.js.map",
+    "static/js/3.4798b340.chunk.js": "/StickyNotes/static/js/3.4798b340.chunk.js",
+    "static/js/3.4798b340.chunk.js.map": "/StickyNotes/static/js/3.4798b340.chunk.js.map",
+    "index.html": "/StickyNotes/index.html",
+    "static/css/main.6d8a133b.chunk.css.map": "/StickyNotes/static/css/main.6d8a133b.chunk.css.map",
+    "static/js/2.f3a952fb.chunk.js.LICENSE.txt": "/StickyNotes/static/js/2.f3a952fb.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/StickyNotes/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21f32224.js",
+    "static/js/2.f3a952fb.chunk.js",
+    "static/css/main.6d8a133b.chunk.css",
+    "static/js/main.852123fc.chunk.js"
+  ]
+}
